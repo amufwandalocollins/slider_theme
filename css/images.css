@@ -1,0 +1,16 @@
+#left1 {
+	background: url(../img/2half1.jpg) no-repeat;
+	background-size: cover;
+	background-position: 0px 0px;
+	background-color: rgba(0,0,0,.5);
+	margin-right: 0px;
+}
+#right1 {
+	background: url(../img/2half2.jpg) no-repeat;
+	background-size: cover;
+	background-position: 0px 0px;
+	margin-left: 0px;
+}
+#left2 {
+	background-color: #FFFFFF;
+}
